@@ -1,0 +1,427 @@
+body
+{
+  margin: 0;
+}
+h3
+{
+  display: inline-block;
+  font-style: normal;
+  font-weight: bold;
+  font-size: 19px;
+  line-height: 22px;
+  font-family: 'Poppins', sans-serif;
+}
+h4
+{
+  margin: 50px auto auto auto;
+  text-align: center;
+}
+h1{
+  font-family: 'Poppins', sans-serif;
+}
+.top-container
+{
+  border: 1px solid rgb(255, 255, 255);
+  height: 750px;
+  display: flex;
+  flex-direction: row;
+}
+.middle-container
+{
+  border: 1px solid rgb(255, 255, 255);
+  height: 750px;
+  display: flex;
+  flex-direction: row;
+}
+.contact-container
+{
+  border: 1px solid rgb(255, 255, 255);
+  height: 700px;
+  display: flex;
+  flex-direction: row;
+}
+.contact-left
+{
+  border: 1px solid rgb(255, 255, 255);
+  height: 700px;
+  width: 758px;
+}
+.contact-right
+{
+  height: 700px;
+  width: 758px;
+  background-image: url(images/illus2.png);
+}
+.top-right
+{
+  height: 750px;
+  width: 758px;
+  background-color: #EDEFF3;
+}
+.top-left
+{
+  border: 1px solid rgb(255, 255, 255);
+  height: 750px;
+  width: 758px;
+}
+.bottom-container
+{
+  background-color: #edeff3;
+  border: 1px solid #edeff3;
+  height: 250px;
+  width: 100%;
+}
+.first
+{
+  margin: 200px auto auto 20px;
+}
+.second
+{
+  margin-left: 20px;
+  color: #3E80FF;
+  font-family: 'Poppins', sans-serif;
+}
+.second-head
+{
+  margin: 200px 50px auto 50px;
+}
+.contact-head
+{
+  text-align: center;
+  font-family: 'Poppins', sans-serif;
+  font-size: 37px;
+}
+.project-head{
+  font-family:'Roboto', sans-serif ;
+  font-size:37px ;
+  text-align: center;
+}
+.skills-head{
+  font-family:'Roboto', sans-serif ;
+  font-size:37px ;
+  text-align: center;
+}
+.first-para
+{
+  font-size: 20px;
+  margin: auto 80px auto 20px;
+}
+.para-second
+{
+  font-size: 24px;
+  margin: 20px 50px auto 50px;
+  font-family: 'Poppins', sans-serif;
+}
+.footer-text{
+  text-align: center;
+  margin-top: 50px;
+}
+.stats
+{
+  margin: auto auto auto 50px;
+}
+.experience
+{
+  display: inline-block;
+  padding-right: 15px;
+  font-size: 55px;
+  color: #9548F7;
+  font-family: 'Poppins', sans-serif;
+}
+.exp-content
+{
+  display: inline-block;
+  width: 120px;
+  font-family: 'Poppins', sans-serif;
+}
+.project
+{
+  display: inline-block;
+  padding-right: 15px;
+  font-size: 55px;
+  color: #9548F7;
+  font-family: 'Poppins', sans-serif;
+}
+.proj-content
+{
+  display: inline-block;
+  width: 120px;
+  font-family: 'Poppins', sans-serif;
+}
+.nav-bar
+{
+  margin: auto auto auto 280px;
+}
+.element
+{
+  margin: auto 15px auto auto;
+}
+.socials
+{
+  margin: 120px auto auto 20px;
+}
+.socials-bottom
+{
+  margin: 30px auto auto 680px;
+  align-content: center;
+
+}
+.p1{
+  position: absolute;
+width: 204px;
+height: 221.87px;
+left: 669px;
+top: 483.09px;
+
+}
+.image1
+{
+width: 801px;
+height: 751px;
+left: 741px;
+top: 282px;
+
+}
+.image2
+{
+width: 532px;
+height: 576px;
+left: 333px;
+right: 795px;
+top: 1101px;
+
+}
+.icons
+{
+  left: 4.65%;
+right: 92.36%;
+top: 19.69%;
+bottom: 79.36%;
+
+  margin: auto 10px auto auto;
+}
+input
+{
+  width: 400px;
+  height: 30px;
+  background-color: #F0E6FD;
+  border: 2px solid #F0E6FD;
+}
+textarea
+{
+  background-color: #F0E6FD;
+  border: 2px solid #F0E6FD;
+  width: 400px;
+}
+form
+{
+  margin: 100px auto auto 20px;
+}
+input[type=submit]{
+  background-color: #9548f7;
+  color: white;
+  width: 250px;
+height: 55px;
+text-size-adjust: 100px;
+}
+.myButton {
+  margin: 30px auto auto 20px;
+	background-color:#9344D1;
+	display:inline-block;
+	cursor:pointer;
+	color:#ffffff;
+	font-family: 'Roboto', sans-serif;
+	font-size:17px;
+	padding:13px 17px;
+	text-decoration:none;
+}
+.myButton:hover {
+	background-color:#570abd;
+}
+.myButton:active {
+	position:relative;
+	top:1px;
+}
+
+.myButton2 {
+  margin: auto auto auto 50px;
+	background-color:#ffffff;
+	border:1px solid #0e0f0e;
+	display:inline-block;
+	cursor:pointer;
+	color:#141314;
+	font-family: 'Roboto', sans-serif;
+	font-size:17px;
+	padding:13px 17px;
+	text-decoration:none;
+	
+}
+.myButton2:hover {
+	background-color:#d0c7db;
+}
+.myButton2:active {
+	position:relative;
+	top:1px;
+}
+.myButton3 {
+  margin: auto auto auto 30px;
+	background-color:#9448f7;
+	border:1px solid #9448f7;
+	display:inline-block;
+	cursor:pointer;
+	color:#f5edf5;
+	font-family:Arial;
+	font-size:17px;
+	padding:13px 17px;
+}
+.myButton3:hover {
+	background-color:#612aa3;
+}
+.myButton3:active {
+	position:relative;
+	top:1px;
+}
+
+#right{
+  background-color: white;
+}
+#left
+{
+  background-image: url(images/illus1.png);
+}
+*{
+  box-sizing: border-box;
+  padding: 0;
+  margin: 0;
+}
+
+.container{
+  display: flex;
+  justify-content: center;
+}
+
+
+.card-1{
+  background: #E2CDFD;
+  width: 335px;
+  height: 412px;
+  left: 548px;
+  margin: 50px;
+  border-radius: 25px;
+  box-shadow: -7px 6px 4px
+}
+
+.card-2{
+  background:  #CFB7EF;
+  width: 335px;
+  height: 412px;
+  left: 548px;
+  margin: 50px;
+  border-radius: 25px;
+  box-shadow: -7px 6px 4px
+}
+
+.card-3{
+  background: #E2CDFD;
+  width: 335px;
+  height: 412px;
+  left: 548px;
+  margin: 50px;
+  border-radius: 25px;
+  box-shadow: -7px 6px 4px
+}
+.card-1:hover {
+  transform: scale(1.15);
+  box-shadow: 5px 5px 15px rgba(0,0,0,0.6);
+}
+
+.card-2:hover {
+  transform: scale(1.15);
+  box-shadow: 5px 5px 15px rgba(0,0,0,0.6);
+}
+
+.card-3:hover {
+  transform: scale(1.15);
+  box-shadow: 5px 5px 15px rgba(0,0,0,0.6);
+}
+
+
+
+*{
+  box-sizing: border-box;
+  padding: 0;
+  margin: 0;
+}
+
+.container{
+  display: flex;
+  justify-content: center;
+}
+
+
+.card-4{
+  width: 333px;
+  height: 506px;
+  left: 549px;
+  margin: 50px;
+  border-radius: 25px;
+  box-shadow: -7px 6px 4px
+}
+
+
+
+.card-5{
+  width: 333px;
+  height: 506px;
+  left: 549px;
+  margin: 50px;
+  border-radius: 25px;
+  box-shadow: -7px 6px 4px
+}
+
+.card-6{
+  width: 333px;
+  height: 506px;
+  left: 549px;
+  margin: 50px;
+  border-radius: 25px;
+  box-shadow: -7px 6px 4px
+}
+.card-4:hover {
+  transform: scale(1.15);
+  box-shadow: 5px 5px 15px rgba(0,0,0,0.6);
+}
+
+.card-5:hover {
+  transform: scale(1.15);
+  box-shadow: 5px 5px 15px rgba(0,0,0,0.6);
+}
+
+.card-6:hover {
+  transform: scale(1.15);
+  box-shadow: 5px 5px 15px rgba(0,0,0,0.6);
+}
+.head-c1{
+  font-size: 41px;
+  font-family: 'Roboto', sans-serif;
+  width: 246px;
+  height: 120px;
+  left: 563px;
+  top: 2076px;
+
+}
+.head-c2{
+  font-size: 41px;
+  font-family: 'Roboto', sans-serif;
+  width: 246px;
+  height: 120px;
+  left: 563px;
+  top: 2076px;
+}
+.head-c3{
+  font-size: 41px;
+  font-family: 'Roboto', sans-serif;
+  width: 246px;
+  height: 120px;
+  left: 563px;
+  top: 2076px;}
